@@ -4,7 +4,7 @@
 
 这是我的综合学习仓库。Python 小练习、深度学习基础、画图、机器人感知和具身智能相关的尝试，都会先放在这里，所以内容会比较杂。
 
-CS61A 和 CS231n 会分别整理到各自的课程仓库，不放在这里。
+课程内容单独整理在 [cs61a-learning](https://github.com/adihe1819/cs61a-learning) 和 [cs231n-learning](https://github.com/adihe1819/cs231n-learning)，不放在这里。
 
 ## 目前在学
 
