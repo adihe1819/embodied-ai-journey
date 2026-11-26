@@ -14,6 +14,8 @@
 
 ## 仓库里的内容
 
+- [`biped-gait-rl`](biped-gait-rl)：五舵机闭链 3D 双足机器人步态强化学习模块（我在团队复刻项目 [kdwbll/Biped_Robot](https://github.com/kdwbll/Biped_Robot) 中负责的算法部分），基于 MuJoCo Warp 256 并行 GPU 环境，已完成 8 轮迭代与双脚交替真离地直行仿真基线。
+- [`VLA-机械臂`](VLA-机械臂)：VLA 与空间智能方向的阅读与调研记录。
 - [`DNN.py`](DNN.py)：一个三分类的小练习，数据由程序生成，主要用来熟悉数据划分、训练循环和测试集评估。
 - [`numpy_notes.py`](numpy_notes.py)：NumPy 的数组、切片、广播和矩阵运算练习。
 - [`pandas_notes.py`](pandas_notes.py)：Pandas 的分箱、分组和透视表练习。
